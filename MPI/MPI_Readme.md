@@ -5,4 +5,4 @@
   <br /><h3>Notes of MPI</h3><br />
 </p>
 
-*Note: Included Onenotepkg file.....(Reccomended)
+*Note: Included Onenotepkg file.....(Reccomended)*

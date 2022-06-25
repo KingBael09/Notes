@@ -1,7 +1,7 @@
 # Microprocessor and Interfacing
 
 <p align = center>
-  <br />Although Neither Perfect nor Complete<br />
+  <br /><h4>Although Neither Perfect nor Complete</h4><br />
   <br /><h3>Notes of MPI</h3><br />
 </p>
 

@@ -1,5 +1,4 @@
 # Notes
-
-<p>
+<p align = center>
   Consise Notes
 </p>
